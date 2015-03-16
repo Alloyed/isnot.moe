@@ -47,7 +47,7 @@
                  "r" "/r/"
                  "r9k" "/r9k/"
                  "s" "/s/"
-                 "s4s" "/s4s/"
+                 "s4s" "[s4s]"
                  "sci" "/sci/"
                  "soc" "/soc/"
                  "sp" "/sp/"
